@@ -1,4 +1,4 @@
-# LFA
+# LFA - Parser para a linguagem MEL utilizando ferramenta
 
 
 Author: Harrison Sanches<br/>
